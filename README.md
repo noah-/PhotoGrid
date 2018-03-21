@@ -1,4 +1,5 @@
 # PhotoGridSharp
+## [Download binary](https://github.com/noah-/PhotoGrid/releases/tag/1.0)
 
 ## Usage
 - run PhotoGridSharp.exe
